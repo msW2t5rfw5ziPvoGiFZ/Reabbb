@@ -7,8 +7,13 @@ I am 16
 
 Languages I know 
 
-![image](https://user-images.githubusercontent.com/89426838/136308734-3733fa8c-b720-496d-b1b8-bebdfad1b10b.png)
+RLua, and JavaScript
 
+Languages I hope to learn in the future 👀
+
+C++, and C#
+
+Discord: Reabb#2203
 
 
 <!---
