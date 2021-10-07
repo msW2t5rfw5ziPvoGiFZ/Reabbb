@@ -1,8 +1,15 @@
-👋 Hi, I’m @Reabbb
-👀 I’m interested in learning, and coding
-🌱 I’m currently learning JavaScript, C#
-💞️ I’m looking to collaborate on people who have the same passion as me and would like to work together on code projects 
-📫 How to reach me Discord: Reabb#2203
+Information about me 
+                                                                       
+I love learning how to code 
+One day I wish to work at one of those FANG commpanys
+I started learning how to code since I was 13 years old 
+I am 16 
+
+Languages I know 
+
+![image](https://user-images.githubusercontent.com/89426838/136308734-3733fa8c-b720-496d-b1b8-bebdfad1b10b.png)
+
+
 
 <!---
 Reabbb/Reabbb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
