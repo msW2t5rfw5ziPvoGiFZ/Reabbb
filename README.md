@@ -1,9 +1,9 @@
 Information about me 
                                                                        
-I love learning how to code 
-One day I wish to work at one of those FANG commpanys
-I started learning how to code since I was 13 years old 
-I am 16 
+I love learning how to code, 
+one day I wish to work at one of those FANG commpanys.
+Cool facts about me is I started learning how to code since I was 13 years old and 
+I am 16 years old : D
 
 Languages I know 
 
