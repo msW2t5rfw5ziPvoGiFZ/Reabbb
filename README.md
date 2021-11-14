@@ -1,9 +1,6 @@
 Information about me 
                                                                        
-I love learning how to code, 
-one day I wish to work at one of those FANG companys.
-Cool facts about me is I started learning how to code since I was 13 years old and 
-I am 16 years old : D
+I love learning how to code
 
 Languages I know 
 
@@ -11,7 +8,7 @@ RLua, and JavaScript
 
 Languages I hope to learn in the future 👀
 
-C++, and C#
+C++, Python,and C#
 
 Discord: Reabb#2203
 
