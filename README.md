@@ -1,14 +1,14 @@
-Information about me 
-                                                                       
-I love learning how to code
+A little Information about me 
 
 Languages I know 
 
-RLua, and JavaScript
+RLua, and JavaScript Note I am not a expert
 
 Languages I hope to learn in the future 👀
 
 C++, Python,and C#
+
+Currently working on Roblox studio development and Discord bot development 
 
 Discord: Reabb#2203
 
