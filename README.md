@@ -2,7 +2,7 @@ A little Information about me
 
 Languages I know 
 
-RLua, and JavaScript Note I am not a expert
+RLua, and JavaScript NOTE I am not a expert I try my best and practice everyday 
 
 Languages I hope to learn in the future 👀
 
