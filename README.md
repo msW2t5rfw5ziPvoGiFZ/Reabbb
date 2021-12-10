@@ -6,7 +6,7 @@ RLua, and JavaScript NOTE I am not a expert I try my best and practice everyday
 
 Languages I hope to learn in the future 👀
 
-C++, Python,and C#
+C++, Python, and C#
 
 Currently working on Roblox studio development and Discord bot development 
 
