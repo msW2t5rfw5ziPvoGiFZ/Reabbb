@@ -1,6 +1,6 @@
 A little Information about me 
 
-Languages I know 
+Coding Languages I know 
 
 RLua, and JavaScript NOTE I am not a expert I try my best and practice everyday 
 
