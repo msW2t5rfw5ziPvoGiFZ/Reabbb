@@ -1,14 +1,8 @@
-A little Information about me 
-
-Coding Languages I know 
-
-RLua, and JavaScript NOTE I am not a expert I try my best and practice everyday 
-
-Languages I hope to learn in the future 👀
+Roblox Lua, and JavaScript
 
 C++, Python, Java, C, HTML, CSS and C#
 
-Currently working on Roblox studio development and Discord bot development 
+Currently working on Roblox studio development, website, and Discord bot development 
 
 Discord: Reabb#2203
 
