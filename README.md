@@ -4,7 +4,7 @@ C++, Python, Java, C, HTML, CSS and C#
 
 Currently working on Roblox studio development, website development, and Discord bot development 
 
-Discord: Abstraction#2203
+Discord: Abstraction#2203 Discord ID: 554114131041583136 (Make sure to check for impersonators)
 
 
 <!---
