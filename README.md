@@ -1,4 +1,4 @@
-Roblox Lua, and JavaScript
+Lua, and JavaScript
 
 C++, Python, Java, C, HTML, CSS and C#
 
